@@ -1,5 +1,8 @@
 # board
 
+http://b6c8-188-3-173-243.ngrok.io/
+
+
 The hotel and airbnb industry has been hit hard by the recent recession. Credit card companies are seeing a decrease in the number of transactions being processed in this industry. This is due to a decrease in travel and tourism overall as unemployment rates have increased and people are cutting back on their spending.
 
 We analysed transaction volume and amounts processed by Visa for Luxury, medium and economy class accomodations and found that 
